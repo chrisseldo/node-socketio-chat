@@ -1,13 +1,15 @@
 # node-socketio-chat
 Example Node chat app utilizing Socket.io
 
-# Chat Set Up
+# SetUp
 
 Clone the repository
 
 `git clone https://github.com/chrisseldo/node-socketio-chat.git`
 
-# `npm install`
+# npm install
+
+First, `npm install`
 
 You need to install express dependencies
 
